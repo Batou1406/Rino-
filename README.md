@@ -4,3 +4,6 @@ Repository for the Rino project, the hand-free polyvalent tool. Develloped durin
 This is an open project, you're alowed to do almost everything with it, expect making money out of what we develloped.
 
 We'll be glad if you print it at home and use it ! Spread the project like the flu !
+
+You may also want to check our project on  DevPost
+https://devpost.com/software/modular-uv-non-organic-surface-sanitizer
