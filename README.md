@@ -3,4 +3,4 @@ Repository for the Rino project, the hand-free polyvalent tool. Develloped durin
 
 This is an open project, you're alowed to do almost everything with it, expect making money out of what we develloped.
 
-We'll be glad if you print it at home and use it ! Spread the project the like the flue !
+We'll be glad if you print it at home and use it ! Spread the project like the flu !
